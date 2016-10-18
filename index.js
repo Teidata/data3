@@ -4,4 +4,4 @@ $(document).ready(function() {
     aggressive: true,            // borra la cookie viewedOuibounceModal
     timer: 5                        // espera (evita falsos positivos)
   });
-};
+});
